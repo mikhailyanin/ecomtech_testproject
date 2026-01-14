@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ecomtech_project/ecomtech_project.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
